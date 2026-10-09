@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-homeassistant/commit/ba30cb0cf86c52bdb5cde98974bc062e97966529",
       "git:hexsha": "ba30cb0cf86c52bdb5cde98974bc062e97966529",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
