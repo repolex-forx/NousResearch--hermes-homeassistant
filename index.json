@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "hermes-homeassistant",
+  "versions": [
+    {
+      "commit": "ba30cb0cf86c52bdb5cde98974bc062e97966529",
+      "tag": "main",
+      "parsed_at": "2026-10-09T03:48:30.503590+00:00"
+    }
+  ]
+}
